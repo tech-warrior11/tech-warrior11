@@ -3,7 +3,7 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="800" alt="Tech-Warrior Profile" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" alt="Tech-Warrior Profile" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
 
   <br><br>
   
