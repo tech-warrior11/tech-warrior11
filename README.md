@@ -1,55 +1,54 @@
-<h1 align="center">Hi 👋, I'm Tech-warrior</h1>
-<h3 align="center">B.Tech Student & Aspiring Cybersecurity Professional 🛡️</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Aspiring+Cybersecurity+Professional;%5B%2B%5D+Networking+%26+Linux+Enthusiast;%5B%2B%5D+Loading+Payload...;System.out.println(%22Hello+World!%22);" alt="Typing SVG" />
 
+  <br><br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" alt="Young Hacker Anime" />
 
-- 🔭 I’m currently working on **Various cyber security projects**
-
-- 🌱 I’m currently learning **Ethical Hacking, SOC, and Cloud Security**
-
-- 👯 I’m looking to collaborate on **Cybersecurity, AI, and Full-Stack Web Development projects**
-
-- 💬 Ask me about **C/C++, Linux, Networking, and Backend Development**
-
-- 📫 How to reach me **via my GitHub profile (@tech-warrior11)**
-
-- ⚡ Fun fact **I am a Networking & Linux Enthusiast who loves combining problem-solving with real-world security applications.**
-
-<br>
-<br>
-
-<h2 align="left">🛠️ Tech Stack & Skills</h2>
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" alt="Languages" />
-</p>
-
-### Frameworks & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Frameworks" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
-</p>
-
-### Tools & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Tools" />
-</p>
+  <br><br>
+  
+  <a href="https://github.com/tech-warrior11">
+    <img src="https://komarev.com/ghpvc/?username=tech-warrior11&label=PROFILE+VIEWS&style=for-the-badge&color=00ff00" alt="tech-warrior11 profile views" />
+  </a>
+</div>
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+### 💻 `Terminal_Access_Granted`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-warrior11&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="tech-warrior11's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-warrior11&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="192px"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-warrior11&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="tech-warrior11's GitHub streak" height="192px"/>
+```shell
+tech-warrior@local:~$ cat info.txt
+[+] Role: B.Tech Student | Aspiring Cybersecurity & Network Security Professional
+[+] Focus: Ethical Hacking, SOC, Cloud Security & Full-Stack
+[+] Current Mission: Wi-Fi Human Presence Detection System (Python/RSSI)
+[+] Looking for: Collab on Cybersecurity, AI, and Web Dev projects
+[+] Ask me about: C/C++, Linux, Networking, Backend Architecture
+[+] Contact: via my GitHub profile (@tech-warrior11)
+```
+
+### 🧰 `Equipped_Arsenal`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,js,react,nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" alt="Arsenal" />
 </p>
 
+### 📈 `Threat_Intel_Stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-warrior11&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" alt="Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-warrior11&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-warrior11&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub streak" height="180px"/>
+</p>
+
+### 🐍 `Activity_Feed_Snake`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
