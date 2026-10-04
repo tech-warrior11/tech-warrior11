@@ -28,8 +28,29 @@ tech-warrior@local:~$ cat info.txt
 
 ### 🧰 `Equipped_Arsenal`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,js,react,nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" alt="Arsenal" />
+#### 💻 `Languages`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash,powershell,html,css,regex&theme=dark" alt="Languages" />
+</p>
+
+#### 🌐 `Web_&_Backend`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,bootstrap,sass&theme=dark" alt="Web Development" />
+</p>
+
+#### 🗄️ `Databases_&_Cloud`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,aws,azure,gcp,cloudflare&theme=dark" alt="Databases and Cloud" />
+</p>
+
+#### 🛡️ `OS_&_Security`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,windows,apple,android,docker,kubernetes,nginx&theme=dark" alt="OS and DevOps" />
+</p>
+
+#### 🧠 `AI_&_Tools`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,gitlab,vscode,vim,postman,figma,raspberrypi&theme=dark" alt="Tools" />
 </p>
 
 ### 📈 `Threat_Intel_Stats`
