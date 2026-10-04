@@ -28,29 +28,16 @@ tech-warrior@github:~$ ./fetch_profile.sh
 
 ### 🧰 `Equipped_Arsenal`
 
-#### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash,powershell,html,css,regex&theme=dark" alt="Languages" />
-</p>
-
-#### 🌐 Web & Backend Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,bootstrap,sass&theme=dark" alt="Web Development" />
-</p>
-
-#### 🗄️ Databases & Cloud Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,aws,azure,gcp,cloudflare&theme=dark" alt="Databases and Cloud" />
-</p>
-
-#### 🛡️ OS, Security & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,windows,apple,android,docker,kubernetes,nginx&theme=dark" alt="OS and DevOps" />
-</p>
-
-#### 🧠 AI & Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,gitlab,vscode,vim,postman,figma,raspberrypi&theme=dark" alt="Tools" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,sqlite,firebase&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vim&theme=dark" />
+  </a>
 </p>
 
 ### 📈 `Threat_Intel_Stats`
