@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Cybersecurity+Specialist;%5B%2B%5D+System+Architect;%5B%2B%5D+Executing+Initialization_Sequence..." alt="Typing SVG" />
 
   <br><br>
-
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" alt="Tech-Warrior Profile" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
-
-  <br><br>
   
   <a href="https://github.com/tech-warrior11">
     <img src="https://komarev.com/ghpvc/?username=tech-warrior11&label=ACCESS_COUNT&style=for-the-badge&color=00FFFF" alt="profile views" />
