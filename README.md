@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="100" align="left" alt="Top Left GIF" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajRlM25mOWRyOXY5NjNrY2RpeXFycXlicGw0cWN0dGZubXliOTBvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="120" align="right" alt="Top Right GIF" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Cybersecurity+Specialist;%5B%2B%5D+System+Architect;%5B%2B%5D+Executing+Initialization_Sequence..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajRlM25mOWRyOXY5NjNrY2RpeXFycXlicGw0cWN0dGZubXliOTBvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100" align="right" alt="Top Right GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Cybersecurity+Specialist;%5B%2B%5D+System+Architect;%5B%2B%5D+Executing+Initialization_Sequence..." alt="Typing SVG" />
 
   <br><br>
   
