@@ -3,7 +3,7 @@
 
   <br><br>
 
-  <img src="assets/profile.jpg" width="800" alt="Tech-Warrior Profile" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
+  <img src="https://media.tenor.com/F3E9KjB-W3AAAAAC/hacker-pc.gif" width="800" alt="Tech-Warrior Profile" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.2);" />
 
   <br><br>
   
