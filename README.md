@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Cybersecurity+Specialist;%5B%2B%5D+System+Architect;%5B%2B%5D+Executing+Initialization_Sequence..." alt="Typing SVG" />
   <br><br>
+  <img src="./blinking_eye.svg" alt="Blinking Eye" />
+  <br><br>
   <a href="https://github.com/tech-warrior11">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./terminal_dark.svg">
