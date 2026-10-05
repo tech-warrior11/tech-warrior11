@@ -1,28 +1,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="100" align="left" alt="Top Left GIF" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajRlM25mOWRyOXY5NjNrY2RpeXFycXlicGw0cWN0dGZubXliOTBvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100" align="right" alt="Top Right GIF" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=root%40tech-warrior%3A~%24+whoami;%5B%2B%5D+Cybersecurity+Specialist;%5B%2B%5D+System+Architect;%5B%2B%5D+Aspiring+Software+Engineer" alt="Typing SVG" />
-
+  <a href="https://github.com/tech-warrior11">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg">
+      <img alt="Tech-Warrior Profile" src="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg" width="750">
+    </picture>
+  </a>
   <br><br>
   
   <a href="https://github.com/tech-warrior11">
     <img src="https://komarev.com/ghpvc/?username=tech-warrior11&label=ACCESS_COUNT&style=for-the-badge&color=00FFFF" alt="profile views" />
   </a>
 </div>
-
-<br>
-
-### 💻 `SYS_INFO_DUMP`
-
-```shell
-tech-warrior@github:~$ ./fetch_profile.sh
-[+] Identity  : Tech-warrior
-[+] Role      : B.Tech Student | Aspiring Cybersecurity & Network Security Professional
-[+] Directive : Ethical Hacking, SOC, Cloud Security & Full-Stack Development
-[+] Active Op : Wi-Fi Human Presence Detection System (Python/RSSI)
-[+] Radar     : Seeking collabs in Cybersecurity, AI, and Advanced Web Dev
-[+] Comm      : Reach out via my GitHub profile (@tech-warrior11)
-```
 
 ### 🧰 `Equipped_Arsenal`
 
