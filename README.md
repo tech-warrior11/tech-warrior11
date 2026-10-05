@@ -3,9 +3,9 @@
   <br><br>
   <a href="https://github.com/tech-warrior11">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg">
-      <img alt="Tech-Warrior Profile" src="https://raw.githubusercontent.com/tech-warrior11/tech-warrior11/main/terminal_dark.svg" width="750">
+      <source media="(prefers-color-scheme: dark)" srcset="./terminal_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./terminal_dark.svg">
+      <img alt="Tech-Warrior Profile" src="./terminal_dark.svg" width="750">
     </picture>
   </a>
   <br><br>
